@@ -1,0 +1,17 @@
+<div *ngIf="isAdmin">
+  <mat-toolbar>
+    <mat-toolbar-row>
+      <div class="toolbar no-select" routerLink="">
+        <span class="text-white">Клининг</span>
+      </div>
+      <span class="example-spacer"></span>
+      <div class="toolbar no-select">
+        <button class="toolbar button" mat-flat-button routerLink="">Главная</button>
+        <button class="toolbar button" mat-flat-button routerLink="products">Товары</button>
+        <button class="toolbar button" mat-flat-button routerLink="basket">Корзина</button>
+        <button class="toolbar button" mat-flat-button routerLink="login">Войти</button>
+
+      </div>
+    </mat-toolbar-row>
+  </mat-toolbar>
+</div>

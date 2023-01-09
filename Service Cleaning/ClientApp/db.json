@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "Влажная уборка",
+      "price": "10000",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "1",
+        "people": "2",
+        "time": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Сухая уборка",
+      "price": "1000",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "",
+        "people": "",
+        "time": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Снегоуборочная машина",
+      "price": "10000",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "",
+        "people": "",
+        "time": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Уборка стройматериала",
+      "price": "34444",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "",
+        "people": "",
+        "time": ""
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 4,
+      "title": "Влажная уборка",
+      "price": "10000",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "",
+        "people": "",
+        "time": ""
+      },
+      "quantity": 2
+    },
+    {
+      "id": 5,
+      "title": "Сухая уборка",
+      "price": "1000",
+      "image": "assets/images/flowers.jpg",
+      "configure": {
+        "type": "",
+        "people": "",
+        "time": ""
+      },
+      "quantity": 1
+    }
+  ]
+}

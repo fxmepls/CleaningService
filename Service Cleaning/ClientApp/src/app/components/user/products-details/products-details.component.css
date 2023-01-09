@@ -1,0 +1,38 @@
+.container {
+    margin: 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+.mat-card {
+  background-color: #063832;
+  color: white;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+.mat-flat-button {
+    background-color: black;
+  margin-left: 15px;
+}
+  
+  .image {
+    max-width: 300px;
+
+  }
+
+body {
+  background-image: url(../../../../assets/images/base.jpg);
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  color: aliceblue;
+}
+
+
+
+.example-spacer {
+  flex: 1 1 auto;
+}
